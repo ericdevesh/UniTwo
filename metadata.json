@@ -1,0 +1,8 @@
+{
+  "name": "UniTwo",
+  "description": "A real-time shared media and chat application designed for long-distance couples and friends to watch, listen, and talk together.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
